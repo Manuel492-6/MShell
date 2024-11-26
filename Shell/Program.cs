@@ -38,7 +38,7 @@
                             A[I + Salto] = X;
                             Band = 1;
 
-                            //
+                            ////
                             Console.WriteLine("");
                             for (int p = 0; p < A.Length; p++)
                             {
